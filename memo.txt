@@ -1,0 +1,6 @@
+■仮想環境アクセス（ターミナル）
+.\venv\Scripts\activate
+■仮想環境から離脱
+deactivate
+■localserver
+python .\manage.py runserver
